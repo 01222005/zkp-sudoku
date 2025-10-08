@@ -1,1 +1,1 @@
-# zkp-sudoku
+# zk-sudoku
